@@ -1,2 +1,3 @@
-# prothTest
-It is a primality test for Proth numbers
+def checkProth() <- функция для проверки введенного числа на число Прота
+
+def prothTest() <- функция для проверки числа Прота на простоту
