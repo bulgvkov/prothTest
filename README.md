@@ -6,5 +6,5 @@ def prothTest() <- функция для проверки числа Прота 
 
 # Тестирование
 
-![test1](https://github.com/bulgvkov/prothTest/raw/test1.png)
-![test2](https://github.com/bulgvkov/prothTest/raw/test2.png)
+![test1](https://github.com/bulgvkov/prothTest/test1.png)
+![test2](https://github.com/bulgvkov/prothTest/test2.png)
